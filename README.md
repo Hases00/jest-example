@@ -11,6 +11,14 @@ npm run test
 
 You can now change code as you like until you see all tests pass!
 
+## Screenshots
+If you've run things correctly, then (assuming you're using VS Code), you should see something like the following:
+![failing screenshot](./screenshots/failing.png)
+
+
+And once you've implemented `multiply` correctly, it'll look like this:
+![passing screenshot](./screenshots/passing.png)
+
 ## How did we get here?
 Note: I've already done the following for this repo. The steps below are only applicable
 if you want to add jest to a new project or an existing one that *doesn't already have jest 

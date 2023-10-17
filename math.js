@@ -1,5 +1,5 @@
 function multiply(x, y) {
-  throw Error("Not implemented yet!")
+  throw Error("Not implemented yet!");
 }
 
 // This line is what allows us functions from one javascript file inside of another.
