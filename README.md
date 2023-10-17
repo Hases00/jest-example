@@ -29,3 +29,6 @@ npm install -D jest
 3. Write tests!
 Take a look at `./math.test.js` for example. Do note that `.test.` being in the name is important!
 
+
+## Where can I learn more?
+Head on over to the [Jest documentation](https://jestjs.io/docs/getting-started)!

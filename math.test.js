@@ -1,3 +1,4 @@
+// require() is how you get access to functions defined in other files
 const { multiply } = require('./math');
 
 describe("multiplication", () => {
